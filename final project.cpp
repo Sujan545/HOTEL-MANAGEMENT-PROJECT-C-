@@ -509,7 +509,7 @@ void hotel::about()
     system("cls");
     head();
     cout<<"\n\n\n";
-    cout<<"\tThis Program is Design For Hotel Room Management system.\n\tWe Three Group of Students Designed it for the college project.\n\tAs you can see,we are newbies and our program is for keeping record of Hotel Room.\n ";
+    cout<<"\tThis Program is Design For Hotel Room Management system.\n\tWe Three Group of Students Designed it for the college project.\n\t As you can see,we are newbies and our program is for keeping record of Hotel Room.\n ";
     cout<<"\n\tDesigned By:\n\tSujan Khatiwoda\n\tUjjwal Dahal\n\tRachan Phuyal\n";
     getch();
     main_menu();
