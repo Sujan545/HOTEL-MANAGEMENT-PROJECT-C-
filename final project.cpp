@@ -21,7 +21,7 @@ void intro()
 void head()
 {
 	cout << "\n\n\n\n\n\n\n\t\t\t\t####################################################";
-	cout << "\n\t\t\t\t#               XYZ HOTEL PVT. LTD.                #";
+	cout << "\n\t\t\t\t#               BIRTAMOD HOTEL PVT. LTD.                #";
 	cout << "\n\t\t\t\t####################################################";
 }
 
