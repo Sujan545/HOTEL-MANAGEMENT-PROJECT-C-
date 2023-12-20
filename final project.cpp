@@ -131,7 +131,7 @@ void hotel::main_menu()
 			default:
 			{
 				cout << "\n\n\t\t\t\tWrong choice.....!!!";
-				cout << "\n\t\t\t\tPress any key to continue....!!";
+				cout << "\n\t\t\t\tPress any key to continue.....!!";
 				getch();
 			}
 		}
