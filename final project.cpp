@@ -28,7 +28,7 @@ void head()
 void ex_it(void)				 // function to exit
 {
     system("cls");
-    head();						 // call head function
+    head();						// call head function
     cout<<"\n\n\n\n\n\t\t\tTHANK YOU FOR VISITING :)";
     getch();					 // holds screen
 }
