@@ -11,7 +11,7 @@ using namespace std;
 void intro()
 {
 	cout << "\n\n\t            ";
-	cout << "     C++ Project On Hotel Room Management System";
+	cout << "    C++ Project On Hotel Room Management System";
 	cout << "\n\n\n\n\n\n\n\t\t\t\t####################################################";
 	cout << "\n\t\t\t\t#\t\t MADE BY \t\t\t   #";
 	cout << "\n\t\t\t\t#   SUJAN KHATIWODA ,UJJWAL DAHAL ,RACHAN PHUYAL   #";
